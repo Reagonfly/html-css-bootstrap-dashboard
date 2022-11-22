@@ -109,6 +109,7 @@ aside a:hover{
     position: absolute;
     left: 70px;
     right: 0;
+    z-index: 2;
 }
 
 #top-bar .topbar-link{
@@ -186,6 +187,7 @@ aside a:hover{
     top: 280px;
     left: 70px;
     width: calc(100% - 70px);
+    z-index: 1;
 }
 
 #main-content .table-classes{
